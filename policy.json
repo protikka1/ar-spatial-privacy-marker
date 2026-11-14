@@ -1,0 +1,15 @@
+{
+  "standard": "AR-Spatial-Privacy-Marker",
+  "version": "1.0.0",
+  "repository": "https://github.com/protikka1/ar-spatial-privacy-marker",
+  "marker_id": "ASPM-V1-OPT-OUT",
+  "physical_width_meters": 0.30,
+  "restrictions": {
+    "block_plane_detection": true,
+    "block_3d_meshing": true,
+    "block_persistent_anchors": true,
+    "detach_existing_anchors": true,
+    "block_vps_upload": true
+  },
+  "legal_notice": "Private Property No AR application Mapping object , Unauthorized 3D mapping or unauthorized landing is projected and against the law"
+}
