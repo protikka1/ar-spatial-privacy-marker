@@ -3,7 +3,7 @@
 An open-source, machine-readable physical visual marker and spatial opt-out specification designed to protect physical locations from unauthorized Augmented Reality (AR) object mapping, 3D surface meshing, and persistent spatial anchoring.
 
 ## Legal & Spatial Notice
-> **Private Property No AR application Mapping object , Unauthorized 3D mapping or unauthorized landing is projected and against the law**
+> **Private Property No AR application Mapping object , Unauthorized 3D mapping or unauthorized landing is prohibited and against the law**
 
 ## How It Works
 1. **Asymmetric Visual Feature Emblem:** Designed with high-contrast, non-repeating corners and internal geometric features to achieve rapid detection in ARCore (`Augmented Images`), ARKit (`ARReferenceImage`), and WebXR/MindAR trackers.
