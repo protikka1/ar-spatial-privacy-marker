@@ -1,3 +1,11 @@
 {
-  "info": { "author": "xcode", "version": 1 }
+  "resources": [
+    {
+      "filename": "ASPMMarker.arreferenceimage"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
 }
